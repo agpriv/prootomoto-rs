@@ -1,5 +1,5 @@
 {
-    "remote_config_question_option_shuffle_enable_2025": false,
+    "remote_config_question_option_shuffle_enable_2025": true,
     "question_data_2025": [
     	{
             "questionID": 189,
