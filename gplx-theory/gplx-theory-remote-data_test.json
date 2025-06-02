@@ -1,0 +1,13 @@
+{
+    "remote_config_question_option_shuffle_enable_2025": false,
+    "question_data_2025": [
+    	{
+            "questionID": 189,
+            "answerExplain": "Ý 2 sai do đi xe quá tốc độ, không đúng làn đường là vi phạm luật và không có văn hóa giao thông.<br/>➜ Chọn ý 1 đúng."
+        },
+        {
+            "questionID": 237,
+            "answerExplain": "CHÚ Ý: Xe số tự động vẫn có số thấp (số L), rất nhiều bạn hiểu sai điều này. Điều khiển xe tự động vào đường trơn trượt thì về số thấp, kết hợp phanh chân để giảm tốc độ.<br/>➜ Ý 1 đúng."
+        }
+    ]
+}
