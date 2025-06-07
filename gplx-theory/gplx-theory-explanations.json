@@ -13,6 +13,18 @@
         {
             "questionID": 237,
             "answerExplain": "CHÚ Ý: Xe số tự động vẫn có số thấp (số L), rất nhiều bạn hiểu sai điều này. Điều khiển xe tự động vào đường trơn trượt thì về số thấp, kết hợp phanh chân để giảm tốc độ.<br/>➜ Ý 1 đúng."
+        },
+        {
+            "questionID": 487,
+            "answerExplain": "Quy tắc xét thứ tự ưu tiên như sau:<br/> - Xe vào giao lộ trước được đi trước.<br/> - Xe ưu tiên theo thứ tự: hỏa, quân, công, thương.<br/> - Xe trên đường ưu tiên được đi trước.<br/> - Trên đường cùng cấp, xe nào đường phía bên phải trống được đi trước.<br/> - Hướng đi theo thứ tự: rẽ phải, đi thẳng, rẽ trái.<br/>------------------------------<br/>Xét 2 biển báo trên hình:<br/> - Trước đầu xe tải là biển W.207a (giao nhau với đường không ưu tiên).<br/> - Trước đầu xe con là biển W.208 (giao nhau với đường ưu tiên).<br/>➜ Xe tải và xe mô tô đang đi trên đường ưu tiên.<br/>➜ Xe con và xe khách đang đi trên đường không ưu tiên.<br/>➜ Thứ tự các xe đi như sau:<br/>1. Xe tải: Đường ưu tiên và đi thẳng.<br/>2. Mô tô: Đường ưu tiên và rẽ trái.<br/>3. Xe khách: Đường không ưu tiên và đi thẳng.<br/>4. Xe con: Đường không ưu tiên và rẽ trái."
+        },
+        {
+            "questionID": 488,
+            "answerExplain": "Quy tắc xét thứ tự ưu tiên như sau:<br/> - Xe vào giao lộ trước được đi trước.<br/> - Xe ưu tiên theo thứ tự: hỏa, quân, công, thương.<br/> - Xe trên đường ưu tiên được đi trước.<br/> - Trên đường cùng cấp, xe nào đường phía bên phải trống được đi trước.<br/> - Hướng đi theo thứ tự: rẽ phải, đi thẳng, rẽ trái.<br/>------------------------------<br/>Xét 2 biển báo trên hình:<br/> - Trước đầu xe con là biển W.207a (giao nhau với đường không ưu tiên).<br/> - Trước đầu xe khách là biển W.208 (giao nhau với đường ưu tiên).<br/>➜ Xe con và xe công an đang đi trên đường ưu tiên.<br/>➜ Xe khách và xe tải đang đi trên đường không ưu tiên.<br/>➜ Thứ tự các xe đi như sau:<br/>1. Xe công an: Xe ưu tiên.<br/>2. Xe con: Đường ưu tiên.<br/>3. Xe tải: Đường không ưu tiên và đi thẳng.<br/>4. Xe khách: Đường không ưu tiên và rẽ trái."
+        },
+        {
+            "questionID": 489,
+            "answerExplain": "Quy tắc xét thứ tự ưu tiên như sau:<br/> - Xe vào giao lộ trước được đi trước.<br/> - Xe ưu tiên theo thứ tự: hỏa, quân, công, thương.<br/> - Xe trên đường ưu tiên được đi trước.<br/> - Trên đường cùng cấp, xe nào đường phía bên phải trống được đi trước.<br/> - Hướng đi theo thứ tự: rẽ phải, đi thẳng, rẽ trái.<br/>------------------------------<br/>➜ Xét ý nghĩa biển chính và biển phụ: trước đầu xe công an, biển I.401 (đường ưu tiên), biển phụ S.506 (Hướng đường ưu tiên).<br/>➜ Hướng đường của xe công an và xe tải là hướng đường được ưu tiên.<br/>➜ Thứ tự các xe đi như sau:<br/>1. Xe công an: Xe ưu tiên.<br/>2. Xe tải: Đường ưu tiên (Chú ý biển phụ hướng đường ưu tiên).<br/>3. Xe khách: Đường không ưu tiên và bên phải trống (do xe công an đã đi rồi).<br/>4. Xe con: Đường không ưu tiên, bên phải đang có xe khách nên phải nhường đường."
         }
     ]
 }
